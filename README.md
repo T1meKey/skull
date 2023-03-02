@@ -1,2 +1,58 @@
-# skull
-skull
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Skeleton</title>
+    <meta name"descrpition" content="THis is a demo HTML file">
+  </head>
+  <body>
+    <h1 align="CENTER"> Skeleton </h1>
+
+    <h2>1. The skeleton </h2>
+    <h3>1.1 Skeleton</h3>
+    <h3>1.2 Skeleton 2</h3>
+    <p>skull</p>
+    <p>skull</p>
+
+    <h2>2. Lists</h2>
+    <h3>2.1 Skeleton</h3>
+    <u1>
+      <li>skull</li>
+      <li>skull</li>
+      <li>skull</li>
+    </u1>
+
+    <h4>2.2 Ordered List</h4>
+    <o1>
+      <li>skull</li>
+      <li>skull</li>
+      <li>skull</li>
+    </o1>
+
+    <h2>3. Image</h2>
+    <h3>3.1 Adding Image</h3>
+    <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Skull_Emoji_Icon_8cee31f2-35dd-42e7-b757-3cb8cfe72437_large.png?v=1571606093" width="50%" height="50%">
+
+    <h2>4. Links</h2>
+    <p>Visit <a href="http://cdn.shopify.com/s/files/1/1061/1924/products/Skull_Emoji_Icon_8cee31f2-35dd-42e7-b757-3cb8cfe72437_grande.png?v=1571606093">skull emoji</a></p>
+    <p>Visit <a href="http://cdn.shopify.com/s/files/1/1061/1924/products/Skull_Emoji_Icon_8cee31f2-35dd-42e7-b757-3cb8cfe72437_grande.png?v=1571606093">skull emoji</a> in a new window</p>
+
+    <h2>5. Media</h2>
+    <iframe width="1125" height="633" src="https://www.youtube.com/watch?v=jmX-tzSOFE0"></iframe>
+
+    <h2>6. Table</h2>
+    <table border="1">
+      <caption>skull</caption>
+      <tr>
+        <th>skull</th>
+        <th>skull</th>
+        <th>skull</th>
+      </tr>
+      <tr>
+        <th>skull</th>
+        <th>skull</th>
+        <th>skull</th>
+      </tr>
+    </table>
+
+  <p></p>
+</html>
